@@ -25,41 +25,41 @@ This uses DFS to find the solution to the game
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+git clone https://link-to-project
 ```
 
 Go to the project directory
 
 ```bash
-  cd Peg-Solitare
+cd Peg-Solitare
 ```
 
 Start the solitare in game mode
 
 ```bash
-  py solitare.py game
+py solitare.py game
 ```
 
 Start the solitare in dfs mode
 
 ```bash
-  py solitare.py dfs
+py solitare.py dfs
 ```
 
 Start the solitare in A* mode
 
 ```bash
-  py solitare.py astar
+py solitare.py astar
 ```
 
 View the initial board
 
 ```bash
-  py solitare.py board
+py solitare.py board
 ```
 
 View all of these commands
 
 ```bash
-  py solitare.py board
+py solitare.py board
 ```
