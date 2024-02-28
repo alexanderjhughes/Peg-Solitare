@@ -11,10 +11,14 @@ O O O O O O O
     O O O
     O O O
 ```
+
+This uses DFS to find the solution to the game
+
 ## Acknowledgements
 
  - [Prof D. Paul Benjamin's Assignment](https://csis.pace.edu/~benjamin/teaching/cs627online/webfiles/hmwk.2.html)
  - [Github Copilot for Code Autocompletion](https://github.com/features/copilot)
+ - [Artificial Intelligence - A Modern Approach (3rd Edition)](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
 
 ## Run Locally
 
@@ -34,4 +38,22 @@ Start the solitare in game mode
 
 ```bash
   py solitare.py game
+```
+
+Start the solitare in dfs mode
+
+```bash
+  py solitare.py dfs
+```
+
+View the initial board
+
+```bash
+  py solitare.py board
+```
+
+or
+
+```bash
+  py solitare.py
 ```
