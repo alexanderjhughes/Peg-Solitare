@@ -46,14 +46,20 @@ Start the solitare in dfs mode
   py solitare.py dfs
 ```
 
+Start the solitare in A* mode
+
+```bash
+  py solitare.py astar
+```
+
 View the initial board
 
 ```bash
   py solitare.py board
 ```
 
-or
+View all of these commands
 
 ```bash
-  py solitare.py
+  py solitare.py board
 ```
